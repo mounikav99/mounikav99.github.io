@@ -18,6 +18,7 @@ dist-ssr/
 .DS_Store
 .vscode/
 .claude/
+CLAUDE.md
 !.vscode/extensions.json
 *.suo
 *.ntvs*
