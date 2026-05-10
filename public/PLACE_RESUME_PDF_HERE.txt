@@ -1,0 +1,9 @@
+Place your resume PDF here, named exactly:
+
+  Mounika_Veeramachaneni_Resume.pdf
+
+This file is referenced from:
+  - Hero.jsx (Download Resume button)
+  - Navbar.jsx (Resume ↗ CTA)
+
+After adding the file, delete this placeholder .txt file.
